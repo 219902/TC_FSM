@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Fri Jan 10 22:08:32 CET 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="148.05mm"
+   height="194.1mm"
+   viewBox="225 38 987 1294">
+<g stroke-linecap="square">
+<circle cx="780.0" cy="180.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="780.0" cy="50.0" r="10.0" stroke="#000000" stroke-width="4.0" fill="#000000" />
+<path d="M 780,64 Q 780,85 780,106" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 774,86 L 780,108 L 786,86" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="780.0" y="165.0" fill="#000000" style="font-size:24px">0</text>
+<circle cx="1020.0" cy="360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="1020.0" y="345.0" fill="#000000" style="font-size:24px">1</text>
+<circle cx="420.0" cy="420.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="420.0" y="405.0" fill="#000000" style="font-size:24px">2</text>
+<circle cx="1140.0" cy="720.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="1140.0" y="705.0" fill="#000000" style="font-size:24px">3</text>
+<circle cx="780.0" cy="1260.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="780.0" y="1245.0" fill="#000000" style="font-size:24px">4</text>
+<circle cx="420.0" cy="780.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="420.0" y="765.0" fill="#000000" style="font-size:24px">6</text>
+<path d="M 852.45447,195.04495 Q 929.87506,231.67523 984.33093,292.89026" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 966.55493,281.93515 L 985.6602,294.38455 L 975.52075,273.95932" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="924.1339" y="234.82143" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="924.1339" y="258.8214" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 1056.5347,295.6477 C 1119.8538,184.11734 1226.0404,333.66025 1095.3865,350.36276" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 1114.4641,341.8751 L 1093.4026,350.61636 L 1115.9858,353.77823" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="1148.7004" y="246.67947" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="1148.7004" y="270.67947" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 707.386,194.25493 Q 558.1676,238.9159 462.19733,356.79095" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 470.17188,337.4931 L 460.93457,358.34192 L 479.47766,345.06958" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="571.4796" y="254.21942" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="571.4796" y="278.21942" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 1066.6726,417.42535 Q 1132.7834,523.39185 1142.9608,644.0577" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 1135.3011,624.6327 L 1143.1289,646.0506 L 1147.2587,623.62415" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="1118.8" y="524.06665" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="1118.8" y="548.06665" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 1154.6743,792.53046 Q 1225.3347,1167.7375 854.5572,1245.2614" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 872.9059,1235.2952 L 852.59955,1245.6707 L 875.3618,1247.0413" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="1114.9752" y="1090.3168" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="1114.9752" y="1114.3168" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 420,494 Q 420,601 420,704" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 414,684 L 420,706 L 426,684" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="420.0" y="597.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="420.0" y="621.0" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 346.0096,421.1934 C 199.18456,423.56152 281.00372,240.76797 373.4254,359.9433" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 356.4276,347.81586 L 374.65106,361.52374 L 365.91028,340.46198" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="270.0" y="321.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="270.0" y="345.0" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 1069.6858,743.06335 Q 785.7531,830.751 495.13904,791.4072" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 515.7632,788.14465 L 493.1571,791.1389 L 514.1533,800.03613" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="784.08276" y="819.9931" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="784.08276" y="843.9931" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 478.47647,734.6513 Q 711.1755,555.65186 955.6825,400.48776" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 942.0107,416.27008 L 957.37115,399.41614 L 935.5809,406.13806" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="714.1275" y="558.6107" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="714.1275" y="582.6107" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 736.1544,1200.3882 Q 601.40015,1017.69995 466.16547,840.37177" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 483.0645,852.6365 L 464.95267,838.78143 L 473.52264,859.9133" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="601.28" y="1016.04" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=1</tspan></text>
+<text text-anchor="middle" x="601.28" y="1040.04" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=1</tspan></text>
+<path d="M 708.18164,1242.164 Q 21.090256,1087.4471 382.39627,486.04514" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 377.2398,506.27905 L 383.42624,484.33075 L 366.95343,500.09924" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="283.1896" y="972.7759" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="283.1896" y="996.7759" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=0</tspan></text>
+<path d="M 488.21164,751.309 Q 771.70483,639.0088 1066.0339,702.53534" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 1045.2183,704.1807 L 1067.9889,702.9573 L 1047.75,692.45087" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="774.4138" y="655.9655" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">X=0</tspan></text>
+<text text-anchor="middle" x="774.4138" y="679.9655" fill="#000000" style="font-size:24px">set <tspan style="font-style:italic;">Z=1</tspan></text>
+</g>
+</svg>
